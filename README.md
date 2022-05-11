@@ -13,6 +13,11 @@ and also upload program for some special days.
 - NFP : Notepad For Programers
 - YTD : YouTube Downloader
 
+## ASDF Open Source Program Stauts
+ - FreeDB : Offline
+ - NFP : Online
+ - YTD : Online
+
 ## ASDF Dev
 Dev Discord : https://discord.gg/nhNWu8Sjre
 
