@@ -9,11 +9,11 @@ We upload here at open source.
 and also upload program for some special days.
 
 ## ASDF Open Source Program List
-|ASDF Program List|Help|Status|
+|ASDF Program List|Help|Status|Price|
 |:---|:----|:----|:----|
-|FreeDB|Free DataBase|offline|
-|NFP|Notepad For Program|online|
-|YTD|YouTube Downloader|online|
+|FreeDB|Free DataBase|offline|6000 -> Free|
+|NFP|Notepad For Program|online|3000 -> Free|
+|YTD|YouTube Downloader|online|3000 -> Free|
 
 ## ASDF Dev
 Dev Discord : https://discord.gg/nhNWu8Sjre
