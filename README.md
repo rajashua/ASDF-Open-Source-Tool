@@ -9,9 +9,9 @@ We upload here at open source.
 and also upload program for some special days.
 
 ## ASDF Open Source Program List
-- FreeDB
-- NFP
-- YTD
+- FreeDB : Free DataBase Manage Program
+- NFP : Notepad For Programers
+- YTD : YouTube Downloader
 
 ## ASDF Dev
 Dev Discord : https://discord.gg/nhNWu8Sjre
