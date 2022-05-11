@@ -9,7 +9,7 @@ We upload here at open source.
 and also upload program for some special days.
 
 ## ASDF Open Source Program List
-- FreeDB : Free DataBase Manage Program
+- FreeDB : Free DataBase
 - NFP : Notepad For Programers
 - YTD : YouTube Downloader
 
